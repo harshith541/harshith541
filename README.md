@@ -24,7 +24,7 @@ Python • Java • C • C++ • SQL • HTML • CSS • JavaScript • Flask 
 
 ### 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/harshith541) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/harshith541) • [Email](harshithshetty803@gmail.com)
 
 
 ## 🌐 Socials:

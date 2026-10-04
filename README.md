@@ -1,8 +1,30 @@
-Harshith A
-MCA Student | Python & Java Developer  
-🚀 Real-world projects
-📊 Data & Web Development
-🐍 Python | ☕ Java | 🌐 Web | 🗄️ SQL
+H# Hi, I'm Harshith 👋
+
+🎓 MCA Student at St Agnes College, Mangalore  
+💻 Aspiring Software Developer
+
+### 🚀 About Me
+
+- 🔭 Currently working on real-world software projects
+- 🌱 Learning Python, Java, SQL and Web Development
+- 📊 Interested in Data Analytics
+- 🤝 Interested in collaborative projects
+- 🎯 Preparing for software development opportunities
+
+### 🛠️ Tech Stack
+
+Python • Java • C • C++ • SQL • HTML • CSS • JavaScript • Flask • MySQL • Git • GitHub
+
+### 📌 Featured Projects
+
+- 🎬 Movie Booking Management System
+- 📊 IPL Analytics & Prediction
+- ⚡ Electricity Billing System
+- 🎓 Student Result Management System
+
+### 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/harshith541) • [Email](mailto:YOUR_EMAIL)
 
 
 ## 🌐 Socials:

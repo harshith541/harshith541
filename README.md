@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently student <br>👯 I’m looking to collaborate on sofrtware comapany<br>🤝 I’m looking for help with<br>🌱 I’m currently learning web development<br>💬 Ask me about<br>⚡ Fun fact
+Harshith A
+MCA Student | Python & Java Developer  
+🚀 Real-world projects
+📊 Data & Web Development
+🐍 Python | ☕ Java | 🌐 Web | 🗄️ SQL
 
 
 ## 🌐 Socials:
